@@ -1,0 +1,19 @@
+{
+  "name": "my_api",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"  
+  },
+  "keywords": [],
+  "author": "Youssif Khalid",  
+  "license": "ISC",
+  "description": "A simple Game Express API"
+}
